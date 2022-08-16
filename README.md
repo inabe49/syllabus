@@ -14,6 +14,13 @@
 | 08/08 | .NET Core                                                                                                  | C#       |
 | 08/08 | .NET Standard                                                                                              | C#       |
 | 08/09 | NuGet                                                                                                      | C#       |
+| 08/17 | npm                                                                                                        | Node.js  |
+| 08/17 | npm のプロジェクトファイル package.json                                                                    | Node.js  |
+| 08/17 | package.json に記述されるパッケージの依存関係に関する情報                                                  | Node.js  |
+| 08/18 | LTS                                                                                                        |          |
+| 08/18 | Node.js のメジャーバージョン                                                                               | Node.js  |
+| 08/18 | Java のメジャーバージョン                                                                                  | Java     |
+| 08/19 | SBT                                                                                                        | Scala    |
 
 ## 次にする予定のもの
 
