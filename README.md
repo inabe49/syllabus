@@ -17,9 +17,9 @@
 | 08/17 | npm とは                                                                                                   | Node.js  |
 | 08/17 | npm のプロジェクトファイル package.json                                                                    | Node.js  |
 | 08/17 | package.json に記述されるパッケージの依存関係に関する情報                                                  | Node.js  |
-| 08/18 | LTS とは                                                                                                   |          |
-| 08/18 | Node.js のメジャーバージョン                                                                               | Node.js  |
-| 08/18 | Java のメジャーバージョン                                                                                  | Java     |
+| 08/22 | LTS とは                                                                                                   |          |
+| 08/22 | Node.js のメジャーバージョン                                                                               | Node.js  |
+| 08/22 | Java のメジャーバージョン                                                                                  | Java     |
 | 08/19 | SBT とは                                                                                                   | Scala    |
 
 ## 次にする予定のもの
