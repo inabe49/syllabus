@@ -5,7 +5,7 @@
 
 | 日付  | タイトル                                                                                                   | テーマ               |
 | :---- | :--------------------------------------------------------------------------------------------------------- | :------------------- |
-| 07/25 | プログラミングの基本文法を勉強した後にすること                                                             |                      |
+| 07/25 | プログラミング言語の基本文法を勉強した後にすること                                                         |                      |
 | 07/25 | [ケース (case)](https://mem-on.com/memos/0e446454-2723-4ab9-8d04-6399ff31a0b4)                             | 命名規則             |
 | 07/26 | [Boolean 型の命名規則](https://mem-on.com/memos/d1fd3d89-0c36-42cb-86b8-01754d5a36b4)                      | 命名規則             |
 | 07/26 | [Boolean 型の命名規則の具体例](https://mem-on.com/memos/7b0dc93f-a786-46dd-b38a-37dec7660fd5)              | 命名規則             |
@@ -52,6 +52,16 @@
   - GitHub で GitFlow を利用する
   - Git のタグ
   - GitHub の Pull request
+- RESTful API
+  - URL とリソース
+  - HTTP メソッドの扱い
+  - RESTful API での GET メソッドの利用方法
+  - RESTful API での POST メソッドの利用方法
+  - RESTful API での PUT メソッドの利用方法
+  - RESTful API での DELETE メソッドの利用方法
+  - 具体例
+    - リソース
+    - コマンド処理
 - STL
   - Array, Vector
   - Linked List
