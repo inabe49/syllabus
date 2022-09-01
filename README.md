@@ -21,7 +21,7 @@
 | 08/22 | LTS とは                                                                                                   |                                |
 | 08/22 | Node.js のメジャーバージョン                                                                               | Node.js                        |
 | 08/22 | Java のメジャーバージョン                                                                                  | Java                           |
-| 08/22 |                                                                                                            | セキュリティー                 |
+| 08/22 | [Twitter の非公開リストが見れた話 - RyotaK's Blog](https://blog.ryotak.me/post/twitter-list-chain/) を読む | セキュリティー                 |
 | 08/23 | sbt とは                                                                                                   | Scala                          |
 | 08/23 | sbt から外部のライブラリを利用する                                                                         | Scala                          |
 | 08/26 | [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) を読む   | その他                         |
@@ -31,11 +31,16 @@
 | 08/30 | ダックタイピング                                                                                           | オブジェクト指向プログラミング |
 | 08/30 | シグネチャ                                                                                                 |                                |
 | 08/30 | インターフェース                                                                                           | オブジェクト指向プログラミング |
-| 08/31 | インターフェースの命名規則                                                                                 | 命名規則                       |
+| 09/01 | インターフェースの命名規則                                                                                 | 命名規則                       |
 
 ## 次にする予定のもの
 
-- 振る舞いと実装
+- Git
+  - Git のブランチ
+  - GitFlow
+  - GitHub で GitFlow を利用する
+  - Git のタグ
+  - GitHub の Pull request
 
 ## テーマ案
 
@@ -49,7 +54,6 @@
   - ジェネリクス
   - 継承
     - 継承を利用する具体例
-      -
 - 関数型プログラミング
   - 関数型プログラミング
   - 純粋関数と副作用
@@ -57,11 +61,6 @@
   - immutable なコレクション
   - immutable なオブジェクト
 - Git
-  - Git のブランチ
-  - GitFlow
-  - GitHub で GitFlow を利用する
-  - Git のタグ
-  - GitHub の Pull request
 - RESTful API
   - URL とリソース
   - HTTP メソッドの扱い
