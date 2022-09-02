@@ -3,44 +3,51 @@
 - 後輩の教育用のシラバス
 - 『大学で C はやりました!!』ぐらいのレベルを想定
 
-| 日付  | タイトル                                                                                                   | テーマ                         |
-| :---- | :--------------------------------------------------------------------------------------------------------- | :----------------------------- |
-| 07/25 | プログラミング言語の基本文法を勉強した後にすること                                                         |                                |
-| 07/25 | [ケース (case)](https://mem-on.com/memos/0e446454-2723-4ab9-8d04-6399ff31a0b4)                             | 命名規則                       |
-| 07/26 | [Boolean 型の命名規則](https://mem-on.com/memos/d1fd3d89-0c36-42cb-86b8-01754d5a36b4)                      | 命名規則                       |
-| 07/26 | [Boolean 型の命名規則の具体例](https://mem-on.com/memos/7b0dc93f-a786-46dd-b38a-37dec7660fd5)              | 命名規則                       |
-| 08/01 | 関数の命名規則                                                                                             | 命名規則                       |
-| 08/01 | Converter 関数の命名則                                                                                     | 命名規則                       |
-| 08/02 | [命名規則のアンチパターン ハンガリアン記法](https://mem-on.com/memos/bfe58e8c-e1d1-466f-881a-25b448372a47) | 命名規則                       |
-| 08/08 | .NET Core                                                                                                  | C#                             |
-| 08/08 | .NET Standard                                                                                              | C#                             |
-| 08/09 | NuGet                                                                                                      | C#                             |
-| 08/17 | npm とは                                                                                                   | Node.js                        |
-| 08/17 | npm のプロジェクトファイル package.json                                                                    | Node.js                        |
-| 08/17 | package.json に記述されるパッケージの依存関係に関する情報                                                  | Node.js                        |
-| 08/22 | LTS とは                                                                                                   |                                |
-| 08/22 | Node.js のメジャーバージョン                                                                               | Node.js                        |
-| 08/22 | Java のメジャーバージョン                                                                                  | Java                           |
-| 08/22 | [Twitter の非公開リストが見れた話 - RyotaK's Blog](https://blog.ryotak.me/post/twitter-list-chain/) を読む | セキュリティー                 |
-| 08/23 | sbt とは                                                                                                   | Scala                          |
-| 08/23 | sbt から外部のライブラリを利用する                                                                         | Scala                          |
-| 08/26 | [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) を読む   | その他                         |
-| 08/29 | 抽象化                                                                                                     | 構造化プログラミング           |
-| 08/29 | 抽象化と関数の分割                                                                                         | 構造化プログラミング           |
-| 08/29 | 識別子での日本語の利用に関して                                                                             | 命名規則                       |
-| 08/30 | ダックタイピング                                                                                           | オブジェクト指向プログラミング |
-| 08/30 | シグネチャ                                                                                                 |                                |
-| 08/30 | インターフェース                                                                                           | オブジェクト指向プログラミング |
-| 09/01 | インターフェースの命名規則                                                                                 | 命名規則                       |
+| 日付  | タイトル                                                                                                                                                        | テーマ                         |
+| :---- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------- |
+| 07/25 | プログラミング言語の基本文法を勉強した後にすること                                                                                                              |                                |
+| 07/25 | [ケース (case)](https://mem-on.com/memos/0e446454-2723-4ab9-8d04-6399ff31a0b4)                                                                                  | 命名規則                       |
+| 07/26 | [Boolean 型の命名規則](https://mem-on.com/memos/d1fd3d89-0c36-42cb-86b8-01754d5a36b4)                                                                           | 命名規則                       |
+| 07/26 | [Boolean 型の命名規則の具体例](https://mem-on.com/memos/7b0dc93f-a786-46dd-b38a-37dec7660fd5)                                                                   | 命名規則                       |
+| 08/01 | 関数の命名規則                                                                                                                                                  | 命名規則                       |
+| 08/01 | Converter 関数の命名則                                                                                                                                          | 命名規則                       |
+| 08/02 | [命名規則のアンチパターン ハンガリアン記法](https://mem-on.com/memos/bfe58e8c-e1d1-466f-881a-25b448372a47)                                                      | 命名規則                       |
+| 08/08 | .NET Core                                                                                                                                                       | C#                             |
+| 08/08 | .NET Standard                                                                                                                                                   | C#                             |
+| 08/09 | NuGet                                                                                                                                                           | C#                             |
+| 08/17 | npm とは                                                                                                                                                        | Node.js                        |
+| 08/17 | npm のプロジェクトファイル package.json                                                                                                                         | Node.js                        |
+| 08/17 | package.json に記述されるパッケージの依存関係に関する情報                                                                                                       | Node.js                        |
+| 08/22 | LTS とは                                                                                                                                                        |                                |
+| 08/22 | Node.js のメジャーバージョン                                                                                                                                    | Node.js                        |
+| 08/22 | Java のメジャーバージョン                                                                                                                                       | Java                           |
+| 08/22 | [Twitter の非公開リストが見れた話 - RyotaK's Blog](https://blog.ryotak.me/post/twitter-list-chain/) を読む                                                      | セキュリティー                 |
+| 08/23 | sbt とは                                                                                                                                                        | Scala                          |
+| 08/23 | sbt から外部のライブラリを利用する                                                                                                                              | Scala                          |
+| 08/26 | [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) を読む                                                        | その他                         |
+| 08/29 | 抽象化                                                                                                                                                          | 構造化プログラミング           |
+| 08/29 | 抽象化と関数の分割                                                                                                                                              | 構造化プログラミング           |
+| 08/29 | 識別子での日本語の利用に関して                                                                                                                                  | 命名規則                       |
+| 08/30 | ダックタイピング                                                                                                                                                | オブジェクト指向プログラミング |
+| 08/30 | シグネチャ                                                                                                                                                      |                                |
+| 08/30 | インターフェース                                                                                                                                                | オブジェクト指向プログラミング |
+| 09/01 | [インターフェースの命名規則](https://mem-on.com/memos/e77cd99a-6223-42ef-ac6a-3730f82c4eb2)                                                                     | 命名規則                       |
+| 09/01 | [AWS が主導する Elasticsearch のフォーク「OpenSearch」に Canonical が参加へ](https://www.publickey1.jp/blog/22/awselasticsearchopensearchcanonical.html) を読む |                                |
+| 09/12 | ソースコードのバージョン管理ソフトとは                                                                                                                          |                                |
+| 09/12 | Git と GitHub                                                                                                                                                   |                                |
 
 ## 次にする予定のもの
 
 - Git
+  - Git のリポジトリ
+  - Git のコミットとプッシュ
   - Git のブランチ
+  - Git のマージ
+  - GitHub の Pull request
   - GitFlow
+  - GitHub Flow
   - GitHub で GitFlow を利用する
   - Git のタグ
-  - GitHub の Pull request
 
 ## テーマ案
 
