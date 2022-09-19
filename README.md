@@ -33,8 +33,15 @@
 | 08/30 | インターフェース                                                                                                                                                | オブジェクト指向プログラミング |
 | 09/01 | [インターフェースの命名規則](https://mem-on.com/memos/e77cd99a-6223-42ef-ac6a-3730f82c4eb2)                                                                     | 命名規則                       |
 | 09/01 | [AWS が主導する Elasticsearch のフォーク「OpenSearch」に Canonical が参加へ](https://www.publickey1.jp/blog/22/awselasticsearchopensearchcanonical.html) を読む |                                |
-| 09/12 | ソースコードのバージョン管理ソフトとは                                                                                                                          |                                |
-| 09/12 | Git と GitHub                                                                                                                                                   |                                |
+| 09/20 | ソースコードのバージョン管理ソフトとは                                                                                                                          | Git                            |
+| 09/20 | Git と GitHub                                                                                                                                                   | Git, GitHub                    |
+| 09/21 | Git のブランチ                                                                                                                                                  | Git                            |
+| 09/21 | Git のマージ                                                                                                                                                    | Git                            |
+| 09/21 | GitHub の Pull request                                                                                                                                          | Git, GitHub                    |
+| 09/22 | GitFlow                                                                                                                                                         | Git                            |
+| 09/22 | GitHub で GitFlow を利用する                                                                                                                                    | Git, GitHub                    |
+| 09/26 | GitHub Flow                                                                                                                                                     | Git                            |
+| 09/26 | GitHub で GitHub Flow を利用する                                                                                                                                | Git, GitHub                    |
 
 ## 次にする予定のもの
 
@@ -88,3 +95,4 @@
   - 字句解析
   - 構文解析
   - 抽象構文木
+- ## Rust
