@@ -33,8 +33,9 @@
 | 08/30 | インターフェース                                                                                                                                                | オブジェクト指向プログラミング |
 | 09/01 | [インターフェースの命名規則](https://mem-on.com/memos/e77cd99a-6223-42ef-ac6a-3730f82c4eb2)                                                                     | 命名規則                       |
 | 09/01 | [AWS が主導する Elasticsearch のフォーク「OpenSearch」に Canonical が参加へ](https://www.publickey1.jp/blog/22/awselasticsearchopensearchcanonical.html) を読む |                                |
-| 09/20 | ソースコードのバージョン管理ソフトとは                                                                                                                          | Git                            |
-| 09/20 | Git と GitHub                                                                                                                                                   | Git, GitHub                    |
+| 09/20 | [ソースコードのバージョン管理ソフトとは](https://mem-on.com/memos/7353d546-e749-4343-ad9d-2d934502585b)                                                         | Git                            |
+| 09/20 | Git とは                                                                                                                                                        | Git, GitHub                    |
+| 09/20 | [GitHub とは](https://mem-on.com/memos/f8ff7d6c-fc49-485a-83f0-8eab1ef04000)                                                                                    | Git, GitHub                    |
 | 09/21 | Git のブランチ                                                                                                                                                  | Git                            |
 | 09/21 | Git のマージ                                                                                                                                                    | Git                            |
 | 09/21 | GitHub の Pull request                                                                                                                                          | Git, GitHub                    |
