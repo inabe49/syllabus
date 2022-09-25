@@ -36,13 +36,14 @@
 | 09/20 | [ソースコードのバージョン管理ソフトとは](https://mem-on.com/memos/7353d546-e749-4343-ad9d-2d934502585b)                                                         | Git                            |
 | 09/20 | Git とは                                                                                                                                                        | Git, GitHub                    |
 | 09/20 | [GitHub とは](https://mem-on.com/memos/f8ff7d6c-fc49-485a-83f0-8eab1ef04000)                                                                                    | Git, GitHub                    |
-| 09/21 | Git のブランチ                                                                                                                                                  | Git                            |
-| 09/21 | Git のマージ                                                                                                                                                    | Git                            |
-| 09/21 | GitHub の Pull request                                                                                                                                          | Git, GitHub                    |
-| 09/22 | GitFlow                                                                                                                                                         | Git                            |
-| 09/22 | GitHub で GitFlow を利用する                                                                                                                                    | Git, GitHub                    |
-| 09/26 | GitHub Flow                                                                                                                                                     | Git                            |
-| 09/26 | GitHub で GitHub Flow を利用する                                                                                                                                | Git, GitHub                    |
+| 09/26 | Git のブランチ                                                                                                                                                  | Git                            |
+| 09/26 | Git のマージ                                                                                                                                                    | Git                            |
+| 09/26 | GitHub の Pull request                                                                                                                                          | Git, GitHub                    |
+| 09/26 | GitHub の code owners 機能                                                                                                                                      | GitHub                         |
+| 09/27 | GitFlow                                                                                                                                                         | Git                            |
+| 09/27 | GitHub で GitFlow を利用する                                                                                                                                    | Git, GitHub                    |
+| 09/28 | GitHub Flow                                                                                                                                                     | Git                            |
+| 09/28 | GitHub で GitHub Flow を利用する                                                                                                                                | Git, GitHub                    |
 
 ## 次にする予定のもの
 
