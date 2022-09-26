@@ -39,7 +39,7 @@
 | 09/26 | Git のブランチ                                                                                                                                                  | Git                            |
 | 09/26 | Git のマージ                                                                                                                                                    | Git                            |
 | 09/26 | GitHub の Pull request                                                                                                                                          | Git, GitHub                    |
-| 09/26 | GitHub の code owners 機能                                                                                                                                      | GitHub                         |
+| 09/26 | [GitHub の code owners 機能](https://mem-on.com/memos/ca33aa6b-5577-47ce-89fc-a83a9bfdc94c)                                                                     | GitHub                         |
 | 09/27 | GitFlow                                                                                                                                                         | Git                            |
 | 09/27 | GitHub で GitFlow を利用する                                                                                                                                    | Git, GitHub                    |
 | 09/28 | GitHub Flow                                                                                                                                                     | Git                            |
