@@ -44,18 +44,14 @@
 | 09/27 | GitHub で GitFlow を利用する                                                                                                                                    | Git, GitHub                    |
 | 09/28 | GitHub Flow                                                                                                                                                     | Git                            |
 | 09/28 | GitHub で GitHub Flow を利用する                                                                                                                                | Git, GitHub                    |
-| 10/18 | GitFlow での feature ブランチ                                                                                                                                   | Git, GitHub                    |
-| 10/18 | GitFlow での hotfix ブランチ                                                                                                                                    | Git, GitHub                    |
-| 10/18 | GitFlow での release ブランチ                                                                                                                                   | Git, GitHub                    |
-| 10/xx | 非同期処理とは                                                                                                                                                  | 非同期処理                     |
-| 10/xx | 非同期処理の必要性                                                                                                                                              | 非同期処理                     |
-| 10/xx | [コールバック関数](https://mem-on.com/memos/92633763-165d-403c-bcbb-42647433c7e4)                                                                               | 非同期処理                     |
-| 10/xx | JavaScript の Promise を利用したコールバックメソッドのチェーン                                                                                                  | 非同期処理                     |
-| 10/xx | 先物オブジェクト                                                                                                                                                | 非同期処理                     |
-| 10/xx | async, await                                                                                                                                                    | 非同期処理                     |
-| 10/xx | 実行コンテキスト                                                                                                                                                | 非同期処理                     |
-| 10/xx | 排他制御の必要性                                                                                                                                                | 非同期処理                     |
-| 10/xx | 非同期処理におけるアトミックな処理                                                                                                                              | 非同期処理                     |
+| 10/24 | 非同期処理とは                                                                                                                                                  | 非同期処理                     |
+| 10/24 | 非同期処理の必要性                                                                                                                                              | 非同期処理                     |
+| 10/24 | [コールバック関数](https://mem-on.com/memos/92633763-165d-403c-bcbb-42647433c7e4)                                                                               | 非同期処理                     |
+| 10/25 | JavaScript の Promise を利用したコールバックメソッドのチェーン                                                                                                  | 非同期処理                     |
+| 10/26 | C# のコードレビュー                                                                                                                                             | C#                             |
+| 10/27 | async, await                                                                                                                                                    | 非同期処理                     |
+| 10/27 | 排他制御の必要性                                                                                                                                                | 非同期処理                     |
+| 10/27 | 非同期処理におけるアトミックな処理                                                                                                                              | 非同期処理                     |
 | 10/xx | ロック                                                                                                                                                          | 非同期処理                     |
 | 10/xx | Readers–writer lock                                                                                                                                             | 非同期処理                     |
 | 10/xx | 関数型プログラミング                                                                                                                                            | 関数型プログラミング           |
@@ -63,6 +59,11 @@
 | 10/xx | mutable と immutable                                                                                                                                            | 関数型プログラミング           |
 | 10/xx | immutable なコレクション                                                                                                                                        | 関数型プログラミング           |
 | 10/xx | immutable なオブジェクト                                                                                                                                        | 関数型プログラミング           |
+| 11/xx | null の問題                                                                                                                                                     | プログラミング                 |
+| 11/xx | NullPointerException                                                                                                                                            | プログラミング                 |
+| 11/xx | null object                                                                                                                                                     | プログラミング                 |
+| 11/xx | Maybe モナド, Option モナド                                                                                                                                     | プログラミング                 |
+| 11/xx | TypeScript の strict モード                                                                                                                                     | プログラミング                 |
 
 ## 次にする予定のもの
 
@@ -90,6 +91,9 @@
   - 継承
     - 継承を利用する具体例
 - Git
+  - GitFlow での feature ブランチ
+  - GitFlow での hotfix ブランチ
+  - GitFlow での release ブランチ
 - RESTful API
   - URL とリソース
   - HTTP メソッドの扱い
@@ -111,16 +115,14 @@
   - 構文解析
   - 抽象構文木
 - null の取り扱い
-  - null の問題
-  - NullPointerException
-  - null object
-  - Maybe モナド, Option モナド
-  - TypeScript の strict モード
 - エラーの取り扱い
   - 例外
   - Error を表すデータ型
   - Either モナド
   - Go のエラー処理
   - TypeScript のエラー処理
+- 非同期処理
+  - 実行コンテキスト
+  - 先物オブジェクト
 
 ## Rust
