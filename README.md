@@ -60,6 +60,8 @@
 | 11/11 | immutable なオブジェクト                                                                                                                                        | 関数型プログラミング           |
 | 11/11 | TypeScript で immutable な配列を利用する                                                                                                                        | 関数型プログラミング           |
 | 11/11 | TypeScript で immutable なオブジェクトを利用する                                                                                                                | 関数型プログラミング           |
+| 11/xx | Reactive Extensions とは                                                                                                                                        | C#                             |
+| 11/xx | IObservable                                                                                                                                                     | C#                             |
 | 11/xx | null の問題                                                                                                                                                     | プログラミング                 |
 | 11/xx | NullPointerException                                                                                                                                            | プログラミング                 |
 | 11/xx | null object                                                                                                                                                     | プログラミング                 |
