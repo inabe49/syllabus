@@ -60,8 +60,11 @@
 | 11/11 | immutable なオブジェクト                                                                                                                                        | 関数型プログラミング           |
 | 11/11 | TypeScript で immutable な配列を利用する                                                                                                                        | 関数型プログラミング           |
 | 11/11 | TypeScript で immutable なオブジェクトを利用する                                                                                                                | 関数型プログラミング           |
-| 11/xx | Reactive Extensions とは                                                                                                                                        | C#                             |
-| 11/xx | IObservable                                                                                                                                                     | C#                             |
+| 11/14 | Reactive Extensions とは                                                                                                                                        | C#                             |
+| 11/14 | IObservable                                                                                                                                                     | C#                             |
+| 11/14 | IObservable を購読する                                                                                                                                          | C#                             |
+| 11/14 | IObservable を作成する                                                                                                                                          | C#                             |
+| 11/14 | IObservable を変換する                                                                                                                                          | C#                             |
 | 11/xx | null の問題                                                                                                                                                     | プログラミング                 |
 | 11/xx | NullPointerException                                                                                                                                            | プログラミング                 |
 | 11/xx | null object                                                                                                                                                     | プログラミング                 |
@@ -127,5 +130,9 @@
 - 非同期処理
   - 実行コンテキスト
   - 先物オブジェクト
+- GUI アプリケーション設計
+  - MVC
+  - MVVM
+  - Flux
 
 ## Rust
