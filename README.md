@@ -79,8 +79,9 @@
 | 12/09 | ChatGPT                                                                                                                                                         | 深層学習                         |
 | 12/19 | 例外                                                                                                                                                            | エラーの取り扱い                 |
 | 12/20 | Either モナド                                                                                                                                                   | エラーの取り扱い                 |
-| 12/xx | Error を表すデータ型                                                                                                                                            | エラーの取り扱い                 |
-| 12/xx | Go のエラー処理                                                                                                                                                 | エラーの取り扱い                 |
+| 12/20 | [UI から「白」が消える日](https://note.com/ritar/n/n0f6aad6c2560) を読む                                                                                        | GUI                              |
+| 12/22 | [技術的負債は開発者体験を悪化させる](https://speakerdeck.com/mtx2s/technical-debt-and-developer-experience) を読む                                              | その他                           |
+| 12/23 | Go のエラー処理                                                                                                                                                 | エラーの取り扱い                 |
 | 12/xx | TypeScript のエラー処理                                                                                                                                         | エラーの取り扱い                 |
 | 11/xx | null の問題                                                                                                                                                     | プログラミング                   |
 | 11/xx | NullPointerException                                                                                                                                            | プログラミング                   |
