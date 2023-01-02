@@ -89,7 +89,7 @@
 | 11/xx | NullPointerException                                                                                                                                            | プログラミング                   |
 | 11/xx | null object                                                                                                                                                     | プログラミング                   |
 | 11/xx | Maybe モナド, Option モナド                                                                                                                                     | プログラミング                   |
-| 11/xx | TypeScript の strict モード                                                                                                                                     | プログラミング                   |
+| 11/xx | [TypeScript で null, undefined を安全に取り扱う方法](https://mem-on.com/memos/b7b839a9-b148-4ffd-876b-5bd36205c423)                                             | プログラミング                   |
 
 ## 次にする予定のもの
 
