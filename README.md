@@ -85,7 +85,7 @@
 | 12/22 | [技術的負債は開発者体験を悪化させる](https://speakerdeck.com/mtx2s/technical-debt-and-developer-experience) を読む                                              | その他                           |
 | 12/23 | Go のエラー処理                                                                                                                                                 | エラーの取り扱い                 |
 | 12/xx | TypeScript のエラー処理                                                                                                                                         | エラーの取り扱い                 |
-| 11/xx | null の問題                                                                                                                                                     | プログラミング                   |
+| 11/xx | [null の問題](https://mem-on.com/memos/236af1b2-bdd0-4632-9c75-807810524423)                                                                                    | プログラミング                   |
 | 11/xx | NullPointerException                                                                                                                                            | プログラミング                   |
 | 11/xx | null object                                                                                                                                                     | プログラミング                   |
 | 11/xx | Maybe モナド, Option モナド                                                                                                                                     | プログラミング                   |
