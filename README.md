@@ -90,7 +90,7 @@
 | 01/xx | null object                                                                                                                                                     | null 安全                        |
 | 01/xx | Maybe モナド, Option モナド                                                                                                                                     | null 安全                        |
 | 01/xx | [TypeScript で null, undefined を安全に取り扱う方法](https://mem-on.com/memos/b7b839a9-b148-4ffd-876b-5bd36205c423)                                             | null 安全                        |
-| 01/xx | C# の null 安全                                                                                                                                                 | null 安全                        |
+| 01/xx | [C# の null 安全](https://mem-on.com/memos/081fe2c1-c161-4048-84da-b4dacaa89e87)                                                                                | null 安全                        |
 
 ## 次にする予定のもの
 
