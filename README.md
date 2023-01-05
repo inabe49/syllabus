@@ -9,7 +9,7 @@
 | 07/25 | [ケース (case)](https://mem-on.com/memos/0e446454-2723-4ab9-8d04-6399ff31a0b4)                                                                                  | 命名規則                         |
 | 07/26 | [Boolean 型の命名規則](https://mem-on.com/memos/d1fd3d89-0c36-42cb-86b8-01754d5a36b4)                                                                           | 命名規則                         |
 | 07/26 | [Boolean 型の命名規則の具体例](https://mem-on.com/memos/7b0dc93f-a786-46dd-b38a-37dec7660fd5)                                                                   | 命名規則                         |
-| 08/01 | 関数の命名規則                                                                                                                                                  | 命名規則                         |
+| 08/01 | [関数の命名規則](https://mem-on.com/memos/c0df6635-50d2-44a4-b7be-bb6e2b1abc18)                                                                                 | 命名規則                         |
 | 08/01 | [Converter 関数の命名則](https://mem-on.com/memos/15cda0c0-dca8-4ee9-b334-8182b4a8bf91)                                                                         | 命名規則                         |
 | 08/02 | [命名規則のアンチパターン ハンガリアン記法](https://mem-on.com/memos/bfe58e8c-e1d1-466f-881a-25b448372a47)                                                      | 命名規則                         |
 | 08/08 | .NET Core                                                                                                                                                       | C#                               |
@@ -78,7 +78,7 @@
 | 12/14 | MVVM                                                                                                                                                            | GUI                              |
 | 12/14 | WPF                                                                                                                                                             | C#                               |
 | 12/15 | 設計レビュー                                                                                                                                                    | C#                               |
-| 12/16 | ChatGPT                                                                                                                                                         | 深層学習                         |
+| 12/16 | ChatGPT を鑑賞する                                                                                                                                              | 深層学習                         |
 | 12/19 | 例外                                                                                                                                                            | エラーの取り扱い                 |
 | 12/20 | Either モナド                                                                                                                                                   | エラーの取り扱い                 |
 | 12/20 | [UI から「白」が消える日](https://note.com/ritar/n/n0f6aad6c2560) を読む                                                                                        | GUI                              |
