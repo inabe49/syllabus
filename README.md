@@ -85,12 +85,12 @@
 | 12/22 | [技術的負債は開発者体験を悪化させる](https://speakerdeck.com/mtx2s/technical-debt-and-developer-experience) を読む                                              | その他                           |
 | 12/23 | Go のエラー処理                                                                                                                                                 | エラーの取り扱い                 |
 | 12/xx | TypeScript のエラー処理                                                                                                                                         | エラーの取り扱い                 |
-| 01/xx | [null の問題](https://mem-on.com/memos/236af1b2-bdd0-4632-9c75-807810524423)                                                                                    | null 安全                        |
+| 01/10 | [null の問題](https://mem-on.com/memos/236af1b2-bdd0-4632-9c75-807810524423)                                                                                    | null 安全                        |
 | 01/xx | NullPointerException                                                                                                                                            | null 安全                        |
 | 01/xx | null object                                                                                                                                                     | null 安全                        |
 | 01/xx | Maybe モナド, Option モナド                                                                                                                                     | null 安全                        |
-| 01/xx | [TypeScript で null, undefined を安全に取り扱う方法](https://mem-on.com/memos/b7b839a9-b148-4ffd-876b-5bd36205c423)                                             | null 安全                        |
-| 01/xx | [C# の null 安全](https://mem-on.com/memos/081fe2c1-c161-4048-84da-b4dacaa89e87)                                                                                | null 安全                        |
+| 01/11 | [TypeScript で null, undefined を安全に取り扱う方法](https://mem-on.com/memos/b7b839a9-b148-4ffd-876b-5bd36205c423)                                             | null 安全                        |
+| 01/12 | [C# の null 安全](https://mem-on.com/memos/081fe2c1-c161-4048-84da-b4dacaa89e87)                                                                                | null 安全                        |
 
 ## 次にする予定のもの
 
